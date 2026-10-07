@@ -27,8 +27,6 @@ Detail width counts contiguous bins above half of the 1 kHz peak. At low Detail 
 
 ## Built artifacts
 
-Build root: `C:/Users/yuito/.codex/builds/SootheClone`.
-
 - `SootheClone_artefacts/Debug/VST3/SootheClone.vst3/Contents/x86_64-win/SootheClone.vst3`
   - SHA256: `85F6E7C2AA640650F88BE4428C4BA87ED8112A0113BE06387184F230B2C4882F`
 - `SootheClone_artefacts/Debug/Standalone/SootheClone.exe`
