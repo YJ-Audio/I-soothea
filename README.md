@@ -2,7 +2,6 @@
 
 現在の製品名は **I Soothea**、開発元は **YJ Audio** です（2026-09-09変更）。ソースフォルダ・CMakeターゲット名は開発用としてSootheCloneを維持します。以下の過去の記録には旧製品名が含まれます。
 
-最新Release VST3：`C:/Users/yuito/VST3-Release/I Soothea.vst3`。配布ZIP：`Reports/I-Soothea-Release.zip`。Standalone：`C:/Users/yuito/.codex/builds/SootheClone-EQ/SootheClone_artefacts/Release/Standalone/I Soothea.exe`。
 
 Abletonは現在のVST3カスタムフォルダを再スキャンし、必要ならセットを保存してLiveを再起動してください。製品一覧でI Soothea、開発元YJ Audio、画面左上でI SootheaとRelease buildを確認します。旧セッションを開いた際の復元も確認してください。VST3のプロセッサー／コントローラーCID、パラメーターID、状態形式、DSPを維持していますが、実際の旧Abletonセットを開く検証は未実施です。
 
